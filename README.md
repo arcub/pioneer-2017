@@ -1,2 +1,7 @@
-# pioneer2017
-2017 Repository for the Pioneer robot
+# Pioneer Robot
+
+# Group Members
+* Matt W - maw38
+
+# Project Supervisor
+To be arranged
